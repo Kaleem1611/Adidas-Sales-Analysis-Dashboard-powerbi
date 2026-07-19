@@ -8,10 +8,7 @@ This Power BI dashboard analyzes Adidas sales performance across different regio
 
 ## Dashboard Preview
 
-> Add the dashboard screenshot here
-
-![Dashboard](Images/Dashboard.png)
-
+![Dashboard](Dashboard.png)
 ---
 
 ## Key KPIs
